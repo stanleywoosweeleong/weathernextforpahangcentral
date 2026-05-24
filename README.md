@@ -31,7 +31,7 @@ auto-favourited and can be renamed, edited, or deleted freely afterwards.
 | Kampung Belengu | 甘榜柏伦古 | 3.436161, 102.294602 |
 | Kampung Ketam | 甘榜吉胆 | 3.54000, 102.36778 |
 | Kampung Gantok | 甘榜甘督 | 3.505847, 102.360318 |
-| Jambu Rias BIGWOOD | 占布斯里亚斯 大木 | 3.467919, 102.094837 |
+| Jambu Rias BIGWOOD | 占布里亚斯 大木 | 3.467919, 102.094837 |
 
 ---
 
@@ -90,7 +90,7 @@ The service worker caches the app shell. When you push changes, bump the
 their next visit. The current value is:
 
 ```
-wnext-weathernextforpahangcentral-202605231630
+wnext-weathernextforpahangcentral-202605231700
 ```
 
 ---
