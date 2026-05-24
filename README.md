@@ -1,7 +1,7 @@
 # 彭亨中部 农友天气 · Pahang Central WeatherNext
 
 A single-file Progressive Web App (PWA) delivering farm weather forecasts for
-3 plantation locations around Mentakab, Pahang. Bilingual interface
+4 plantation locations around Mentakab, Pahang. Bilingual interface
 (中文 / English) with optional AI-generated farming briefings.
 
 Part of the WeatherNext family of per-region agricultural weather builds.
@@ -23,7 +23,7 @@ app. It works offline after the first visit (service-worker cached).
 
 ## Seeded locations
 
-On first launch the app seeds these 3 farms (all in Pahang). They are
+On first launch the app seeds these 4 farms (all in Pahang). They are
 auto-favourited and can be renamed, edited, or deleted freely afterwards.
 
 | English | 中文 | Coordinates |
@@ -31,6 +31,7 @@ auto-favourited and can be renamed, edited, or deleted freely afterwards.
 | Kampung Belengu | 甘榜柏伦古 | 3.436161, 102.294602 |
 | Kampung Ketam | 甘榜吉胆 | 3.54000, 102.36778 |
 | Kampung Gantok | 甘榜甘督 | 3.505847, 102.360318 |
+| Jambu Rias BIGWOOD | 占布斯里亚斯 大木 | 3.467919, 102.094837 |
 
 ---
 
@@ -89,7 +90,7 @@ The service worker caches the app shell. When you push changes, bump the
 their next visit. The current value is:
 
 ```
-wnext-weathernextforpahangcentral-202605231400
+wnext-weathernextforpahangcentral-202605231630
 ```
 
 ---
