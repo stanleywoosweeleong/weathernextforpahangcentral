@@ -12,7 +12,7 @@
 // (c_pc- IDs preserved), seed version pc-arch1. bump CACHE_VERSION on each release
 // ============================================================
 
-const CACHE_VERSION = 'wnext-weathernextforpahangcentral-202606032340';
+const CACHE_VERSION = 'wnext-weathernextforpahangcentral-202606041249';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 const WEATHER_CACHE = `${CACHE_VERSION}-weather`;
