@@ -42,7 +42,7 @@
 // / Dense fog in the morning / Kabus tebal waktu pagi). Pahang Central
 // identity (weathernextforpahangcentral) unchanged.
 
-const CACHE_VERSION = 'wnext-weathernextforpahangcentral-202606062243';
+const CACHE_VERSION = 'wnext-weathernextforpahangcentral-202606090000';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 const WEATHER_CACHE = `${CACHE_VERSION}-weather`;
